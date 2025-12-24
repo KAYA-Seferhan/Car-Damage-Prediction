@@ -1,0 +1,13 @@
+{
+  "img_size": 224,
+  "class_to_idx": {
+    "damaged": 0,
+    "undamaged": 1
+  },
+  "idx_to_class": {
+    "0": "damaged",
+    "1": "undamaged"
+  },
+  "positive_class_idx": 0,
+  "positive_class_name": "damaged"
+}
